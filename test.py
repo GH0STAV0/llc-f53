@@ -270,7 +270,7 @@ def end_of_task():
 	init_fire()
 
 def slack_fonction(s):
-	cmdd="curl -X POST -H 'Content-type: application/json' --data "+"'"+'{"text":"'+s+'"}'+"'"+" https://hooks.slack.com/services/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"
+	cmdd="curl -X POST -H 'Content-type: application/json' --data "+"'"+'{"text":"'+s+'"}'+"'"+" https://hooks.slack.com/services/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"
 	print (cmdd)
 	os.system(cmdd)
 
