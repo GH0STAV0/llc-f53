@@ -1,0 +1,405 @@
+1634926757518	mozrunner::runner	INFO	Running command: "/root/EXTRA/firefox-60.0.1esr/firefox/firefox" "-marionette" "--width=1024" "--height=600" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile00lKj6"
+Sandbox: seccomp sandbox violation: pid 27222, tid 27222, syscall 315, args 27222 140533639097024 56 0 140533639094336 140533639097024.
+Sandbox: seccomp sandbox violation: pid 27222, tid 27222, syscall 332, args 33 140533877220146 4096 1 140721673337072 140533639270624.
+Sandbox: unsupported fd-relative fstatat(33, "", 0x7FFC5159F740, 4096)
+Sandbox: seccomp sandbox violation: pid 27222, tid 27222, syscall 262, args 33 140533877220146 140721673336640 4096 4096 1.
+1634926761420	Marionette	INFO	Listening on port 37491
+1634926761440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634926762143	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: https://play.hdvideosnet.com/ggl26_lnk17.html?ymid=c654fed9c925af1754770117a91f44ab&zoneid=3595950&sourceid=500164&rs=0#, line 6: ReferenceError: is_if is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Sandbox: seccomp sandbox violation: pid 27222, tid 27385, syscall 203, args 27385 128 140533066575200 140533429841928 140533066577472 1.
+Sandbox: seccomp sandbox violation: pid 27222, tid 27386, syscall 203, args 27386 128 140533058182496 8 140533058184768 1.
+Sandbox: seccomp sandbox violation: pid 27222, tid 27388, syscall 203, args 27388 128 140533041397088 8 140533041399360 1.
+Sandbox: seccomp sandbox violation: pid 27222, tid 27387, syscall 203, args 27387 128 140533049789792 8 140533049792064 1.
+Sandbox: seccomp sandbox violation: pid 27265, tid 27265, syscall 315, args 27265 140211554684544 56 0 140211554680896 140211554684544.
+Sandbox: seccomp sandbox violation: pid 27265, tid 27265, syscall 332, args 33 140211737105202 4096 1 140725055906000 140211498292240.
+Sandbox: unsupported fd-relative fstatat(33, "", 0x7FFD1AF7DF20, 4096)
+Sandbox: seccomp sandbox violation: pid 27265, tid 27265, syscall 262, args 33 140211737105202 140725055905568 4096 4096 1.
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: blob:moz-extension://6f06db6c-f8dc-43d1-a19b-43bee801ed08/f5838bf7-86a9-4d8d-88a8-d3a73e45a604, line 2: ReferenceError: require is not defined
+JavaScript error: blob:moz-extension://6f06db6c-f8dc-43d1-a19b-43bee801ed08/f5838bf7-86a9-4d8d-88a8-d3a73e45a604, line 2: ReferenceError: require is not defined
+JavaScript error: blob:moz-extension://6f06db6c-f8dc-43d1-a19b-43bee801ed08/f5838bf7-86a9-4d8d-88a8-d3a73e45a604, line 2: ReferenceError: require is not defined
+JavaScript error: blob:moz-extension://6f06db6c-f8dc-43d1-a19b-43bee801ed08/f5838bf7-86a9-4d8d-88a8-d3a73e45a604, line 2: ReferenceError: require is not defined
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+1634926855459	mozrunner::runner	INFO	Running command: "/root/EXTRA/firefox-60.0.1esr/firefox/firefox" "-marionette" "--width=1080" "--height=1920" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewVkqAo"
+Sandbox: seccomp sandbox violation: pid 27609, tid 27609, syscall 315, args 27609 140714765912704 56 0 140714765910080 140714765912704.
+Sandbox: seccomp sandbox violation: pid 27609, tid 27609, syscall 332, args 33 140715003929394 4096 1 140737458449136 140714766090512.
+Sandbox: unsupported fd-relative fstatat(33, "", 0x7FFFFE37A940, 4096)
+Sandbox: seccomp sandbox violation: pid 27609, tid 27609, syscall 262, args 33 140715003929394 140737458448704 4096 4096 1.
+1634926859586	Marionette	INFO	Listening on port 39067
+1634926859686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634926860005	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 861: Error: WebExtension context not found!
+1634926955209	mozrunner::runner	INFO	Running command: "/root/EXTRA/firefox-58.0.1/firefox/firefox" "-marionette" "--width=768" "--height=1024" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiswePG"
+1634926956406	Marionette	INFO	Enabled via --marionette
+Sandbox: seccomp sandbox violation: pid 27938, tid 27938, syscall 315, args 27938 140463264324224 56 0 140463264321600 140463264324224.
+Sandbox: seccomp sandbox violation: pid 27938, tid 27938, syscall 332, args 40 140463513269042 4096 1 140732572073792 140463226056048.
+Sandbox: unsupported fd-relative fstatat(40, "", 0x7FFEDAF77D90, 4096)
+Sandbox: seccomp sandbox violation: pid 27938, tid 27938, syscall 262, args 40 140463513269042 140732572073360 4096 4096 1.
+1634926959761	Marionette	INFO	Listening on port 42911
+1634926959829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634926960063	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.0: Value "dns" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["activeTab", "tabs"], be one of ["browserSettings"], be one of ["cookies"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["downloads", "downloads.open"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/]
+1634926960243	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1634926960304	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.0: Value "dns" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["activeTab", "tabs"], be one of ["browserSettings"], be one of ["cookies"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["downloads", "downloads.open"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/]
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: https://play.hdvideosnet.com/ggl26_lnk17.html?ymid=8e26f38e15a6a998948295b21924e38d&zoneid=3595950&sourceid=500166&rs=0#, line 6: ReferenceError: is_if is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 830: Error: WebExtension context not found!
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634927063768	mozrunner::runner	INFO	Running command: "/root/EXTRA/firefox-59.0b9/firefox/firefox" "-marionette" "--width=800" "--height=1280" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilergTWOW"
+1634927064845	Marionette	INFO	Enabled via --marionette
+Sandbox: seccomp sandbox violation: pid 28300, tid 28300, syscall 315, args 28300 140668541998848 56 0 0 140668541998848.
+Sandbox: seccomp sandbox violation: pid 28300, tid 28300, syscall 332, args 35 140668715393842 4096 1 140721541550144 140668466235632.
+Sandbox: unsupported fd-relative fstatat(35, "", 0x7FFC497F0E90, 4096)
+Sandbox: seccomp sandbox violation: pid 28300, tid 28300, syscall 262, args 35 140668715393842 140721541549712 4096 4096 1.
+1634927068306	Marionette	INFO	Listening on port 41483
+1634927068387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634927068586	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.0: Value "dns" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["downloads", "downloads.open"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/]
+1634927068754	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1634927068824	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.0: Value "dns" must either: must either [must either [be one of ["clipboardRead", "clipboardWrite", "geolocation", "idle", "notifications"], be one of ["bookmarks"], be one of ["find"], be one of ["history"], be one of ["activeTab", "tabs", "tabHide"], be one of ["browserSettings"], be one of ["cookies"], be one of ["topSites"], be one of ["webNavigation"], or be one of ["webRequest", "webRequestBlocking"]], be one of ["alarms", "mozillaAddons", "storage", "unlimitedStorage"], be one of ["browsingData"], be one of ["devtools"], be one of ["identity"], be one of ["menus", "contextMenus"], be one of ["pkcs11"], be one of ["geckoProfiler"], be one of ["sessions"], be one of ["contextualIdentities"], be one of ["downloads", "downloads.open"], be one of ["management"], be one of ["privacy"], be one of ["proxy"], be one of ["nativeMessaging"], be one of ["theme"], or match the pattern /^experiments(\.\w+)+$/], or must either [be one of ["<all_urls>"], match the pattern /^(https?|wss?|file|ftp|\*):\/\/(\*|\*\.[^*/]+|[^*/]+)\/.*$/, or match the pattern /^file:\/\/\/.*$/]
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: undefined, line 0: Error: An unexpected error occurred
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: https://play.hdvideosnet.com/ggl26_lnk17.html?ymid=1d4bdccab1677cb4cbfef05e1715d6a1&zoneid=3595950&sourceid=500164&rs=0#, line 6: ReferenceError: is_if is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ExtensionParent.jsm, line 855: Error: WebExtension context not found!
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634946826666	geckodriver	INFO	Listening on 127.0.0.1:49337
+1634946827813	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=1920", "--height=1080"]
+1634946833487	Marionette	INFO	Listening on port 45805
+1634946833942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634946838828	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.0: Unknown permission "dns"
+1634946838829	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "menus"
+1634946838830	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.2: Unknown permission "privacy"
+1634946838832	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.5: Unknown permission "unlimitedStorage"
+1634946839186	addons.xpi	WARN	Add-on uBlock0@raymondhill.net is not compatible with application version.
+1634946916924	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+Gdk-Message: 00:55:26.915: /root/EXTRA/firefox-53.0b9/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+1634946946873	geckodriver	INFO	Listening on 127.0.0.1:37957
+1634946948052	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=720", "--height=1280"]
+1634946950287	Marionette	INFO	Listening on port 45771
+1634946950405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634946953018	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.0: Unknown permission "dns"
+1634946953020	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "menus"
+1634946953021	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.2: Unknown permission "privacy"
+1634946953023	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.5: Unknown permission "unlimitedStorage"
+1634946953367	addons.xpi	WARN	Add-on uBlock0@raymondhill.net is not compatible with application version.
+Gdk-Message: 00:56:18.241: /root/EXTRA/firefox-53.0b9/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+1634947165150	geckodriver	INFO	Listening on 127.0.0.1:41997
+1634947166307	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=1024", "--height=600"]
+1634947168880	Marionette	INFO	Listening on port 42571
+1634947168988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634947171884	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.0: Unknown permission "dns"
+1634947171885	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "menus"
+1634947171886	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.2: Unknown permission "privacy"
+1634947171888	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.5: Unknown permission "unlimitedStorage"
+1634947172231	addons.xpi	WARN	Add-on uBlock0@raymondhill.net is not compatible with application version.
+WebGL(0x7faa0064f800)::ForceLoseContext
+WebGL(0x7faa00564800)::ForceLoseContext
+WebGL(0x7fa9f1284000)::ForceLoseContext
+WebGL(0x7fa9f1284800)::ForceLoseContext
+JavaScript error: https://hdvideosnet.com/ggl26_lnk17.html?ymid=f9b2a84a9e25b4abf1a8881005f398b4&zoneid=3599368&sourceid=15776356, line 498: ReferenceError: is_if is not defined
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1634947320919	geckodriver	INFO	Listening on 127.0.0.1:36797
+1634947322097	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=2560", "--height=1440"]
+1634947325072	Marionette	INFO	Listening on port 33177
+1634947325180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634947327509	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.0: Unknown permission "dns"
+1634947327511	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "menus"
+1634947327512	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.2: Unknown permission "privacy"
+1634947327514	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.5: Unknown permission "unlimitedStorage"
+1634947327852	addons.xpi	WARN	Add-on uBlock0@raymondhill.net is not compatible with application version.
+WebGL(0x7f9d94830800)::ForceLoseContext
+WebGL(0x7f9d96ccb800)::ForceLoseContext
+WebGL(0x7f9d887da000)::ForceLoseContext
+WebGL(0x7f9d887da800)::ForceLoseContext
+JavaScript error: https://static.cdnroute.io/lp/mobile-partner/assets/scripts/vendor.js?v=2726e71, line 1: TypeError: n is undefined
+1634947465510	geckodriver	INFO	Listening on 127.0.0.1:52785
+1634947466631	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=1536", "--height=2048"]
+1634947469916	Marionette	INFO	Listening on port 34823
+1634947470026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634947472531	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.0: Unknown permission "dns"
+1634947472532	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "menus"
+1634947472533	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.2: Unknown permission "privacy"
+1634947472536	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.5: Unknown permission "unlimitedStorage"
+1634947472891	addons.xpi	WARN	Add-on uBlock0@raymondhill.net is not compatible with application version.
+WebGL(0x7fa3288aa000)::ForceLoseContext
+WebGL(0x7fa319f9a800)::ForceLoseContext
+WebGL(0x7fa31752f000)::ForceLoseContext
+WebGL(0x7fa317530000)::ForceLoseContext
+JavaScript error: https://static.cdnroute.io/lp/mobile-partner/assets/scripts/vendor.js?v=2726e71, line 1: TypeError: n is undefined
+1634947602466	geckodriver	INFO	Listening on 127.0.0.1:52977
+1634947603634	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=480", "--height=800"]
+1634947606248	Marionette	INFO	Listening on port 45107
+1634947606349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634947608682	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947608689	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+1634947609080	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947609087	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+[[Exception stack
+loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+CommandList@chrome://browser/content/ext-commands.js:24:19
+@chrome://browser/content/ext-commands.js:222:30
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+]]
+WebGL(0x7f0a69e19800)::ForceLoseContext
+WebGL(0x7f0a775a2800)::ForceLoseContext
+WebGL(0x7f0a775a5000)::ForceLoseContext
+WebGL(0x7f0a775a5800)::ForceLoseContext
+1634947663782	geckodriver	INFO	Listening on 127.0.0.1:39281
+1634947664956	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=768", "--height=1280"]
+1634947667029	Marionette	INFO	Listening on port 46595
+1634947667136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634947669315	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947669321	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+1634947669684	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947669691	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+[[Exception stack
+loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+CommandList@chrome://browser/content/ext-commands.js:24:19
+@chrome://browser/content/ext-commands.js:222:30
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+]]
+WebGL(0x7f5283219000)::ForceLoseContext
+WebGL(0x7f52834be800)::ForceLoseContext
+WebGL(0x7f52834c6800)::ForceLoseContext
+WebGL(0x7f52834c8800)::ForceLoseContext
+1634947720151	geckodriver	INFO	Listening on 127.0.0.1:49195
+1634947721320	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=1280", "--height=720"]
+1634947723558	Marionette	INFO	Listening on port 34911
+1634947723672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634947726146	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947726152	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+1634947726510	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947726516	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+[[Exception stack
+loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+CommandList@chrome://browser/content/ext-commands.js:24:19
+@chrome://browser/content/ext-commands.js:222:30
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+]]
+WebGL(0x7f8ef4ab8800)::ForceLoseContext
+WebGL(0x7f8ef2c58800)::ForceLoseContext
+WebGL(0x7f8ee35cd000)::ForceLoseContext
+WebGL(0x7f8ee35cd800)::ForceLoseContext
+1634947780116	geckodriver	INFO	Listening on 127.0.0.1:36407
+1634947781255	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=768", "--height=1280"]
+1634947783398	Marionette	INFO	Listening on port 39259
+1634947783521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634947786251	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947786257	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+1634947786630	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947786636	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+[[Exception stack
+loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+CommandList@chrome://browser/content/ext-commands.js:24:19
+@chrome://browser/content/ext-commands.js:222:30
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+]]
+WebGL(0x7f63fd956800)::ForceLoseContext
+WebGL(0x7f6408dea800)::ForceLoseContext
+WebGL(0x7f63fe803000)::ForceLoseContext
+WebGL(0x7f63fe803800)::ForceLoseContext
+1634947840007	geckodriver	INFO	Listening on 127.0.0.1:53751
+1634947841189	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=1080", "--height=2400"]
+1634947843394	Marionette	INFO	Listening on port 36845
+1634947843512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634947846038	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947846044	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+1634947846389	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634947846395	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+[[Exception stack
+loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+CommandList@chrome://browser/content/ext-commands.js:24:19
+@chrome://browser/content/ext-commands.js:222:30
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+]]
+WebGL(0x7f6735690000)::ForceLoseContext
+WebGL(0x7f6738b0f800)::ForceLoseContext
+WebGL(0x7f6738380800)::ForceLoseContext
+WebGL(0x7f6738b10000)::ForceLoseContext
+1634948031267	geckodriver	INFO	Listening on 127.0.0.1:34415
+1634948032457	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=1080", "--height=1920"]
+1634948034561	Marionette	INFO	Listening on port 38991
+1634948034680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634948037257	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634948037263	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+1634948037602	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634948037608	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+[[Exception stack
+loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+CommandList@chrome://browser/content/ext-commands.js:24:19
+@chrome://browser/content/ext-commands.js:222:30
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+]]
+WebGL(0x7f5ef4a1b000)::ForceLoseContext
+WebGL(0x7f5ef6787800)::ForceLoseContext
+WebGL(0x7f5ef6793800)::ForceLoseContext
+WebGL(0x7f5ef6796000)::ForceLoseContext
+JavaScript error: resource://gre/modules/ExtensionContent.jsm -> moz-extension://1b35997f-c066-4f44-a4c9-361f01c82617/js/contentscript.js, line 427: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ExtensionContent.jsm -> moz-extension://1b35997f-c066-4f44-a4c9-361f01c82617/js/contentscript.js, line 427: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ExtensionContent.jsm -> moz-extension://1b35997f-c066-4f44-a4c9-361f01c82617/js/contentscript.js, line 427: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ExtensionContent.jsm -> moz-extension://1b35997f-c066-4f44-a4c9-361f01c82617/js/contentscript.js, line 427: NS_ERROR_NOT_INITIALIZED: 
+1634948087733	geckodriver	INFO	Listening on 127.0.0.1:58425
+1634948088912	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=2048", "--height=1536"]
+1634948091591	Marionette	INFO	Listening on port 34867
+1634948091697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634948094335	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634948094340	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+1634948094680	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634948094686	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+[[Exception stack
+loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+CommandList@chrome://browser/content/ext-commands.js:24:19
+@chrome://browser/content/ext-commands.js:222:30
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+]]
+WebGL(0x7f9a1d286000)::ForceLoseContext
+WebGL(0x7f9a1a8f3800)::ForceLoseContext
+WebGL(0x7f9a05cb5000)::ForceLoseContext
+WebGL(0x7f9a05cb5800)::ForceLoseContext
+Gdk-Message: 01:15:34.509: /root/EXTRA/firefox-53.0b9/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+1634948197642	geckodriver	INFO	Listening on 127.0.0.1:33713
+1634948198819	geckodriver::marionette	INFO	Starting browser /root/EXTRA/firefox-53.0b9/firefox/firefox with args ["-marionette", "--width=800", "--height=1280"]
+1634948200967	Marionette	INFO	Listening on port 41031
+1634948201076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634948203575	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634948203582	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+1634948203938	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing permissions.1: Unknown permission "privacy"
+1634948203944	addons.webextension.uBlock0@raymondhill.net	WARN	Loading extension 'uBlock0@raymondhill.net': Reading manifest: Error processing sidebar_action: An unexpected property was found in the WebExtension manifest.
+Extension error: TypeError: command.suggested_key is null chrome://browser/content/ext-commands.js 79
+[[Exception stack
+loadCommandsFromManifest@chrome://browser/content/ext-commands.js:79:11
+CommandList@chrome://browser/content/ext-commands.js:24:19
+@chrome://browser/content/ext-commands.js:222:30
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:71:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:73:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:384:55
+emit@resource://gre/modules/ExtensionUtils.jsm:383:20
+runManifest@resource://gre/modules/Extension.jsm:798:23
+startup/<@resource://gre/modules/Extension.jsm:878:14
+]]
