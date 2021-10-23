@@ -144,6 +144,7 @@ def close_func(driver):
 	#global new_amount
 	new_amount= getLink_button.text
 	print(new_amount)
+	driver.delete_all_cookies()
 
 def capatch(driver):
 	print("\n # STARTING CAPATCHA  ")
@@ -238,7 +239,7 @@ def capatch(driver):
 	time.sleep(2)
 	claim_button.click()
 	time.sleep(2)
-	driver.delete_all_cookies()
+	
 	close_func(driver)
 	end_of_task()
 
