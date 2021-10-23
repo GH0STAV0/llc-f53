@@ -60,6 +60,7 @@ def build_driver(width,height):
 		fp.set_preference("dom.webdriver.enabled", False)
 		fp.set_preference('useAutomationExtension', False)
 		#fp.set_preference("http.response.timeout",95)
+		fp.set_preference("dom.popup_maximum", 0)
 		fp.set_preference("general.useragent.override",user_agent)
 		fp.set_preference('webdriver.load.strategy','unstable')
 		fp.set_preference("modifyheaders.headers.count", 2)

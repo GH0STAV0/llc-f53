@@ -150,21 +150,25 @@ def capatch(driver):
 	print(" |")
 	global new_amount
 	#driver.execute_script("return arguments[0].scrollIntoView(true);", WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.ID, 'without_captcha_button'))))
-	without_captcha_button=WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, 'without_captcha_button')))
-	without_captcha_button.send_keys(Keys.TAB )
-	time.sleep(2)
-	main_button=WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, 'without_captcha_button')))
-	time.sleep(5)
-	number_fra=driver.find_elements_by_tag_name("iframe")
-	print(str(len(number_fra)))#find_elements_by_class_name
-	time.sleep(1)
-	#input('check capatch')
-	driver.switch_to.frame(driver.find_elements_by_tag_name("iframe")[2])
-	time.sleep(2)
-	recaptcha_ok=WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.XPATH,'//*[@id="rc-anchor-container"]/div[3]/div[1]/div/div')))
-	print(" |")
-	recaptcha_ok.click()
-	time.sleep(2)
+	try:
+		without_captcha_button=WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, 'without_captcha_button')))
+		without_captcha_button.send_keys(Keys.TAB )
+		time.sleep(2)
+		main_button=WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.ID, 'without_captcha_button')))
+		time.sleep(5)
+		number_fra=driver.find_elements_by_tag_name("iframe")
+		print(str(len(number_fra)))#find_elements_by_class_name
+		time.sleep(1)
+		#input('check capatch')
+		driver.switch_to.frame(driver.find_elements_by_tag_name("iframe")[2])
+		print("switch")
+		time.sleep(2)
+		recaptcha_ok=WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.XPATH,'//*[@id="rc-anchor-container"]/div[3]/div[1]/div/div')))
+		print(" |")
+		recaptcha_ok.click()
+		time.sleep(2)
+	except Exception as d:
+		print(str(d))
 
 	try:
 		donne_ok=WebDriverWait(driver, 9).until(EC.presence_of_element_located((By.XPATH,'//span[@aria-checked="true"]')))
@@ -185,12 +189,16 @@ def capatch(driver):
 	except Exception as e:
 		print("no captch lucky")
 
-
+	print("A")	
 	driver.switch_to.default_content()
+	
 	time.sleep(5)#input('lets go to audio')
 	driver.switch_to.frame(driver.find_elements_by_tag_name("iframe")[8])
-	recaptcha_ok=WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.ID, 'recaptcha-audio-button')))
+
+	recaptcha_ok=WebDriverWait(driver, 8).until(EC.presence_of_element_located((By.ID, 'recaptcha-audio-button')))
+	
 	recaptcha_ok.click()
+	print("B")
 	time.sleep(3)
 	eto_firstName=WebDriverWait(driver, 2).until(EC.presence_of_element_located((By.ID, 'audio-source')))
 	download_link = eto_firstName.get_attribute('src')
@@ -230,6 +238,7 @@ def capatch(driver):
 	time.sleep(2)
 	claim_button.click()
 	time.sleep(2)
+	driver.delete_all_cookies()
 	close_func(driver)
 	end_of_task()
 
