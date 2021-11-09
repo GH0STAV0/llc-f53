@@ -94,9 +94,10 @@ def lets_play(serv,ops):
 		print(emoji.emojize("Ok "' :check_mark_button: :alien:'))
 		driver.maximize_window()#
 		driver.install_addon(extension_path, True)
+		# driver.get("https://inspiring-brattain-1201ff.netlify.app/")
 		driver.get("https://inspiring-brattain-1201ff.netlify.app/")
 		#input("")
-		time.sleep(5)
+		time.sleep(12)
 		#print(driver.execute_script("return navigator.userAgent;"))
 		driver.get(urls_BVB)
 		time.sleep(5)
@@ -118,7 +119,7 @@ def lets_play(serv,ops):
 		
 		action = ActionChains(driver)
 		action.move_to_element(getLink_button).perform()
-		#time.sleep(10)
+		time.sleep(5)
 		
 		getLink_button.click()
 		#input('oprn url')
@@ -216,9 +217,12 @@ def stage_1():
 
 def starting_tasks():
 	try:
+		os.system("curl -sx socks5://127.0.0.1:9050 ifconfig.co | grep -oP '(?<=Your IP</span>: ).*(?=</span>)'")
 		stage_1()### CLEAR
-		mod_vpn.fnc_vpn ()
+		# mod_vpn.fnc_vpn ()
+		mod_vpn.renew_connection()
 		serv,ops=build_driver()
+		os.system("curl -sx socks5://127.0.0.1:9050 ifconfig.co | grep -oP '(?<=Your IP</span>: ).*(?=</span>)'")
 		#build_driver()###### BUILDING DRIVER
 		lets_play(serv,ops)
 
