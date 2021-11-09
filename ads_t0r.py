@@ -77,7 +77,7 @@ def lets_play(serv,ops):
 
 	try:
 		print("OPEN DISPLAY  WEB-SITE ...... ",end='')
-		display = Display(visible=0, size=(width,height)).start()
+		display = Display(visible=1, size=(width,height)).start()
 		print(emoji.emojize("Ok "' :check_mark_button: :alien:'))
 
 
