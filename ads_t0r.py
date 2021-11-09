@@ -20,9 +20,12 @@ import json
 #####################################
 urls_BVB="https://wild-beauty.weebly.com/about.html"
 
-random_display_chose=cnf_bvb.random_display_chose
+# random_display_chose=cnf_bvb.random_display_chose
 width=cnf_bvb.width
 height=cnf_bvb.height
+
+
+width ,height=cnf_bvb.resolution_func()
 
 moz_wid="--width="+str(width)
 moz_hig="--height="+str(height)
@@ -201,7 +204,7 @@ def stage_1():
 		os.system("clear && sleep 1") 
 		print ( "-------------------------------------------------------")
 		print(emoji.emojize("Website    : "+urls_BVB+' :check_mark_button: :alien:'))
-		print(emoji.emojize("Resolution : "+random_display_chose+' :check_mark_button: :alien:'))
+		# print(emoji.emojize("Resolution : "+random_display_chose+' :check_mark_button: :alien:'))
 		#####TO DO PRINT ONLY THE SYSTEM
 		#print(width+"x"+height)
 		print("System     : "+sys_use_agent)
