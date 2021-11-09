@@ -21,8 +21,8 @@ import json
 urls_BVB="https://wild-beauty.weebly.com/about.html"
 
 # random_display_chose=cnf_bvb.random_display_chose
-width=cnf_bvb.width
-height=cnf_bvb.height
+# width=cnf_bvb.width
+# height=cnf_bvb.height
 
 
 width ,height=cnf_bvb.resolution_func()
