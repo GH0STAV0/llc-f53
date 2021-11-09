@@ -100,10 +100,10 @@ def lets_play(serv,ops):
 		# driver.get("https://inspiring-brattain-1201ff.netlify.app/")
 		driver.get("https://inspiring-brattain-1201ff.netlify.app/")
 		#input("")
-		time.sleep(12)
+		time.sleep(15)
 		#print(driver.execute_script("return navigator.userAgent;"))
 		driver.get(urls_BVB)
-		time.sleep(5)
+		time.sleep(15)
 
 		
 		###############
