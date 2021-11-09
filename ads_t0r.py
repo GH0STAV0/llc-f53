@@ -1,6 +1,6 @@
 import cnf_bvb
 import mod_vpn
-
+import mod_driver
 import emoji
 from pyvirtualdisplay import Display
 from selenium import webdriver
@@ -224,7 +224,7 @@ def starting_tasks():
 		stage_1()### CLEAR
 		# mod_vpn.fnc_vpn ()
 		mod_vpn.renew_connection()
-		serv,ops=cnf_bvb.build_driver()
+		serv,ops=mod_driver.build_driver()
 		os.system("curl -sx socks5://127.0.0.1:9050 ifconfig.co | grep -oP '(?<=Your IP</span>: ).*(?=</span>)'")
 		#build_driver()###### BUILDING DRIVER
 		lets_play(serv,ops)
