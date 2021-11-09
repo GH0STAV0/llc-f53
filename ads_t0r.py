@@ -39,7 +39,7 @@ def build_driver():
 	print("BUILDING PROFILE DRIVER  ...... ",end='')
 	try:
 		new_driver_path = cnf_bvb.new_driver_path
-		new_binary_path = cnf_bvb.new_binary_path
+		new_binary_path = cnf_bvb.cnf_bvb.random_fir()
 		serv = Service(new_driver_path)
 		fp = webdriver.FirefoxProfile()
 		ops = Firefox_Options()
@@ -224,7 +224,7 @@ def starting_tasks():
 		stage_1()### CLEAR
 		# mod_vpn.fnc_vpn ()
 		mod_vpn.renew_connection()
-		serv,ops=build_driver()
+		serv,ops=cnf_bvb.build_driver()
 		os.system("curl -sx socks5://127.0.0.1:9050 ifconfig.co | grep -oP '(?<=Your IP</span>: ).*(?=</span>)'")
 		#build_driver()###### BUILDING DRIVER
 		lets_play(serv,ops)
