@@ -2,6 +2,14 @@ import os ,random ,subprocess,time
 
 import cnf_bvb
 
+from stem import Signal
+from stem.control import Controller
+
+# signal TOR for a new connection 
+def renew_connection():
+    with Controller.from_port(port = 9051) as controller:
+        controller.authenticate(password="password")
+        controller.signal(Signal.NEWNYM)
 
 ########################### VPN  #############################
 file_vpn_dead=cnf_bvb.file_vpn_dead
@@ -12,7 +20,7 @@ p_vpn_dead=cnf_bvb.p_vpn_dead
 def fnc_vpn():
 	#final_vpn=cnf_bvb.final_vpn
 	#print("openvpn "+final_vpn)
-	#random_vpn=cnf_bvb.random_vpn
+	#random_vpn=cnf_bvb.random_vpnk
 	final_vpn,random_vpn=cnf_bvb.randomm()
 	print("###################################################")
 	print("KILLING OPENVPN ....",end=' ')
